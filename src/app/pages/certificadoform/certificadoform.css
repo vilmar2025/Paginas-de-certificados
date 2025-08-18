@@ -63,6 +63,9 @@ border-radius: 4px;
   border: 1px solid #385AC2;
   box-shadow: none;
 }
+.custom-input-group {
+  margin-bottom: 20px !important;
+}
 .custom-input-group:has(input:focus) label {
   color: #385AC2;
 }
