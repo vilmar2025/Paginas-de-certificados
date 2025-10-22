@@ -4,14 +4,16 @@ enu-certificado {
 }
 .btn-voltar {
   gap: 6px;
+  cursor: pointer;
 }
-.btn-voltar p{
+.btn-voltar p {
   font-weight: 600 ;
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0;
   vertical-align: middle;
   color: #64748B;
+  cursor: pointer;
 }
 .btn-voltar i {
   font-size: 20px;
